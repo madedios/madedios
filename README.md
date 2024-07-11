@@ -7,7 +7,7 @@ BS Computer Science Student
 
 [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2C4856C07B4DAA428ADEB5C1A95FF86EA54DE832282FA5CDC0F3DFD890C2A66D) Oracle November 19, 2022
 
-Tech Achievement:
+## Tech Achievement:
 
 Helped the CS Professor to identify the high/low/medium user of ProfElec4 Course.
 https://app.powerbi.com/view?r=eyJrIjoiMzU2YzM3ZTEtMjg1MC00ZjZmLWIwMGItMDU4MmQ3NjAzMGFmIiwidCI6IjkxMDkzMmIyLTU4NGItNGRkMS05MGFlLTI4ZThjZGZkZTVlNyIsImMiOjEwfQ%3D%3D
@@ -20,7 +20,7 @@ Created first report on PowerBI
 https://app.powerbi.com/view?r=eyJrIjoiZWZlMThlNDAtMGMwNC00ZjkwLWFiMjItNDM4NTJiY2Y0ZWZlIiwidCI6IjkxMDkzMmIyLTU4NGItNGRkMS05MGFlLTI4ZThjZGZkZTVlNyIsImMiOjEwfQ%3D%3D
 
 
-Design Patterns:
+## Design Patterns:
 
 State Pattern
 https://github.com/madedios/statePattern
@@ -37,7 +37,7 @@ https://github.com/madedios/builderpattern
 Decorator Pattern
 https://github.com/madedios/decoratorpattern
 
-Skill Set
+## Skill Set
 Data Visualization Tools :  PowerBI Desktop, Tableau Public
 Programming Languages: Java, Python
 DBMS: DB2
